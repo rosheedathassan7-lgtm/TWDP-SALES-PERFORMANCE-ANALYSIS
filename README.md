@@ -1,4 +1,4 @@
-# Sales Performance Dashboard
+# TWDP Sales Performance Analysis
 
 Using Microsoft Excel, I analysed commercial sales data to uncover insights on revenue, profitability, product lines, regional markets, sales rep performance, and settlement methods. I cleaned the raw dataset, structured PivotTables and PivotCharts, and designed an interactive dashboard with a synchronized City slicer to track overall business health and performance.
 
@@ -185,7 +185,9 @@ Sales representation is competitive and well-distributed across the top tier, le
 
 ## Author
 
-**Data Analyst**  
-- **GitHub**: [@YourUsername](https://github.com)  
-- **LinkedIn**: [Profile Link](https://linkedin.com)  
-- **Email**: [contact@example.com](mailto:contact@example.com)
+**Hassan Rosheedat Temitayo**
+
+Data Analyst | Statistics Graduate | Excel | Power BI | SQL
+
+* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/hassan-rosheedat-570a6340a?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+* **Email:** [E-mail](hassanrosheedat7@gmail.com)
