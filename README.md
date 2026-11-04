@@ -19,7 +19,7 @@ Using Microsoft Excel, I analysed commercial sales data to uncover insights on r
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](image/Sale Performance Dashboard.png)
+![Sales Performance Dashboard](image/Sale-Performance-Dashboard.png)
 
 ---
 
@@ -176,7 +176,7 @@ Sales representation is competitive and well-distributed across the top tier, le
 ├── excel/
 │   └── Sales-Performance_Dashboard.xlsx   # Main Excel workbook with formulas & slicers
 └── image/
-    └── Sale Performance Dashboard.png     # Full-resolution dashboard capture
+    └── Sale-Performance-Dashboard.png     # Full-resolution dashboard capture
 ```
 
 - **Tools Used**: Microsoft Excel (PivotTables, PivotCharts, Slicers, Data Validation, Dynamic Aggregation Functions).
