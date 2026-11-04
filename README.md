@@ -19,7 +19,7 @@ Using Microsoft Excel, I analysed commercial sales data to uncover insights on r
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](image/Sale%20Performance%20Dashboard.png)
+![Sales Performance Dashboard](image/Sale Performance Dashboard.png)
 
 ---
 
