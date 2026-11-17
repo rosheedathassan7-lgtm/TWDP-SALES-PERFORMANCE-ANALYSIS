@@ -251,4 +251,5 @@ TWDP-Sales-Performance-Dashboard/
 ## Author
 
 **Hassan Rosheedat Temitayo**  
-GitHub: [Humairah9](https://github.com/Humairah9)
+GitHub: [Roshab](https://github.com/rosheedathassan7-lgtm)
+LinkedIn: [Hassan Rosheedat](www.linkedin.com/in/hassan-rosheedat-570a6340a)
