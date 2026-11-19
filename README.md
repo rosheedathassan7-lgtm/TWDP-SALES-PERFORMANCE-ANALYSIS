@@ -251,5 +251,7 @@ TWDP-Sales-Performance-Dashboard/
 ## Author
 
 **Hassan Rosheedat Temitayo**  
-Email: [Email](rosheedathassan7@gmail.com)
-LinkedIn: [Hassan Rosheedat](www.linkedin.com/in/hassan-rosheedat-570a6340a)
+
+Data Analyst | Python | Excel | SQL | Power BI
+
+[E-mail](rosheedathassan7@gmail.com) | [LinkedIn](www.linkedin.com/in/hassan-rosheedat-570a6340a)
